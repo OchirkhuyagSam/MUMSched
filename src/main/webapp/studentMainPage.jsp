@@ -9,7 +9,7 @@
 <body>
 
 <h2>Hello ${name}</h2>
-<a href="/student/addcourse">Add course</a>
+<a href="/student/section">Add course</a>
 <a href="/view/schedule">View schedule</a>
 </body>
 </html>

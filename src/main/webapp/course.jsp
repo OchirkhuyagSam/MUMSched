@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<%@page import="mum.sched.entity.model.Course"%>
+<%@page import="mum.sched.model.entity.Course"%>
 <%@page import="java.util.List"%>
 <html lang="en">
 <head>
